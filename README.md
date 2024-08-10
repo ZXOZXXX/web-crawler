@@ -5,7 +5,7 @@
 
 ## Demo
 
- [Visit Demo](https://drive.google.com/drive/u/0/folders/12NegXIaZQTTdqLAFnHTF992tRGY63fLO)
+ [Visit Demo Video](https://drive.google.com/drive/u/0/folders/12NegXIaZQTTdqLAFnHTF992tRGY63fLO)
 
 ## About
 
