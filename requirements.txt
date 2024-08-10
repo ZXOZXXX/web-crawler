@@ -1,3 +1,7 @@
+# Note: Ensure tkinter is installed separately. On Debian-based systems, use:
+# sudo apt-get install python3-tk
+
 customtkinter
 requests
 beautifulsoup4
+# Add other dependencies as needed
